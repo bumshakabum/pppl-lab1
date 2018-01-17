@@ -178,7 +178,7 @@ You can also run all test objects under the `src/test` directory via
 
 Or you can specify, specifically
 
-    > test-only Lab1Suite
+    > testOnly Lab1Suite
 
 ## Your Javascripty Interpreter
 
